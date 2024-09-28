@@ -16,6 +16,8 @@ This project implements a face recognition system using OpenCV and dlib. The goa
 ## Results
 - Provide some sample images or videos showing detected and recognized faces.
 - Discuss the performance and accuracy of the system.
+<img width="959" alt="Screenshot 2024-09-28 121224" src="https://github.com/user-attachments/assets/f6019e35-c7bc-4bd3-bccc-de169eab9598">
+
 
 ## Future Improvements
 - Improve recognition accuracy with deeper models.
