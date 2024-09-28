@@ -27,7 +27,5 @@ This project implements a face recognition system using OpenCV and dlib. The goa
 Feel free to submit issues or pull requests. Any contribution is appreciated!
 
 ## References
-- [OpenCV Documentation](https://docs.opencv.org/)
-- [Dlib Library Documentation](http://dlib.net/)
 - [Face Recognition with Python (Real Python)](https://realpython.com/face-recognition-with-python/)
 - [Face Recognition with Real Time Database-Murtaza's Workshop - Robotics and AI](https://youtu.be/iBomaK2ARyI?si=8j3PprXE4Us-ERty)
